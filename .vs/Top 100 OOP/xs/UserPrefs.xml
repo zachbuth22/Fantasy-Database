@@ -1,4 +1,28 @@
 ﻿<Properties StartupConfiguration="{FC04BA7C-AF51-4B23-9439-BD4D1F224A0F}|Default">
-  <MonoDevelop.Ide.ItemProperties.Top_220100_220OOP FirstBuild="True" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Top 100 OOP/Fantasy Bros">
+    <Files>
+      <File FileName="Top 100 OOP/Program.cs" Line="15" Column="61" />
+      <File FileName="Top 100 OOP/SkillPlayer.cs" Line="16" Column="4" />
+      <File FileName="Top 100 OOP/QB.cs" Line="1" Column="1" />
+      <File FileName="Top 100 OOP/RB.cs" Line="13" Column="65" />
+      <File FileName="Top 100 OOP/WR.cs" Line="6" Column="1" />
+      <File FileName="Top 100 OOP/TE.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Top 100 OOP">
+            <Node name="Top 100 OOP" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Top_220100_220OOP PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
