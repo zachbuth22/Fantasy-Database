@@ -1,5 +1,36 @@
 ﻿using Top_100_OOP;
 
+List<QB> QBs = new List<QB>()
+
+{
+new QB("Patrick Mahomes", 5250, 435, 648, 41, 12, 358, 61, 4, 17),
+new QB("Josh Allen", 4283, 359, 567, 35, 14, 762, 124, 7, 16),
+new QB("Jalen Hurts", 3701, 306, 460, 22, 6, 760, 165, 13, 15),
+new QB("Joe Burrow", 4475, 414, 606, 35, 12, 257, 75, 5, 16),
+new QB("Lamar Jackson", 2242, 203, 326, 17, 7, 764, 112, 3, 12),
+new QB("Justin Fields", 2242, 192, 318, 17, 11, 1143, 160, 8, 15),
+new QB("Justin Herbert", 4739, 477, 699, 25, 10, 147, 54, 0, 17),
+new QB("Trevor Lawrence", 4113, 387, 584, 25, 8, 291, 62, 5, 17),
+new QB("Deshaun Watson", 1102, 99, 170, 7, 5, 175, 36, 1, 6),
+new QB("Dak Prescott", 2860, 261, 394, 23, 15, 182, 45, 1, 12),
+new QB("Tua Tagovailoa", 3548, 259, 400, 25, 8, 70, 24, 0, 13),
+new QB("Aaron Rodgers", 3695, 350, 542, 26, 12, 94, 34, 1, 17),
+new QB("Kirk Cousins", 4547, 424, 643, 29, 14, 97, 31, 2, 17),
+new QB("Daniel Jones", 3205, 317, 472, 15, 5, 708, 120, 7, 16),
+new QB("Geno Smith", 4282, 399, 572, 30, 11, 366, 68, 1, 17),
+new QB("Anthony Richardson", 0, 0, 0, 0, 0 ,0 ,0 ,0 ,0),
+new QB("Jared Goff", 4438, 382, 587, 29, 7, 73, 29, 0, 17),
+new QB("Russell Wilson", 3524, 292, 483, 16, 11, 277, 55, 3, 15),
+new QB("Bryce Young", 0, 0, 0, 0, 0 ,0 ,0 ,0 ,0),
+new QB("Kenny Pickett", 2404, 245, 389, 7, 9, 237, 55, 3, 13),
+new QB("Matthew Stafford", 2087, 206, 303, 10, 8, 9, 13, 1, 9),
+new QB("Derek Carr", 3522, 305, 502, 24, 14, 102, 24, 0, 15),
+new QB("Kyler Murray", 2368, 259, 390, 14, 7, 418, 67, 3, 11),
+new QB("Brock Purdy", 1374, 114, 170, 13, 4, 13, 22, 1, 9)
+
+};
+
+
 List<SkillPlayer> allSkillPlayers = new List<SkillPlayer>()
 {
 new RB("Christian McCaffrey", 741, 85, 102, 13, 17, 1139, 244, 6.5),
